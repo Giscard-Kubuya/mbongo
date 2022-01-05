@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Aug 2020 23:46:12 at http://swlabs.co/madmin/code/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://swlabs.co/madmin/code/ -O1 "C:\Users\mukan\Documents\madmin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:50:54	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/images/icons/favicon.ico (from swlabs.co/madmin/code/)
+23:50:54	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/images/icons/favicon.png (from swlabs.co/madmin/code/)
+23:50:54	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/images/icons/favicon-72x72.png (from swlabs.co/madmin/code/)
+23:50:54	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/images/icons/favicon-114x114.png (from swlabs.co/madmin/code/)
+00:04:05	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/css/images/icons/loading.gif (from swlabs.co/madmin/code/css/themes/style1/orange-blue.css)
+00:04:05	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/manoukvdberg/128.jpg (from swlabs.co/madmin/code/extra-user-list.html)
+00:04:05	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/tomaslau/128.jpg (from swlabs.co/madmin/code/extra-user-list.html)
+00:04:12	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-ui-1.10.3.custom/css/ui-lightness/jquery-ui-1.10.3.custom.css (from swlabs.co/madmin/code/extra-lock-screen.html)
+00:04:12	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/images/favicon.ico (from swlabs.co/madmin/code/extra-signin.html)
+00:04:12	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/undefined (from swlabs.co/madmin/code/frontend-one-page.html)
+00:06:55	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/layout-left-sidebar-collasped.html (from swlabs.co/madmin/code/layout-header-topbar.html)
+00:06:55	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/layout-right-sidebar-collasped.html (from swlabs.co/madmin/code/layout-header-topbar.html)
+00:07:18	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/js/jquery-1.9.1.js (from swlabs.co/madmin/code/extra-404.html)
+00:07:18	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/bootstrap-hover-dropdown.js (from swlabs.co/madmin/code/extra-404.html)
+00:07:18	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/frontend/images/icons/favicon.ico (from swlabs.co/madmin/code/frontend/one-page.html)
+00:07:18	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/frontend/images/icons/favicon.png (from swlabs.co/madmin/code/frontend/one-page.html)
+00:07:18	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/frontend/images/icons/favicon-72x72.png (from swlabs.co/madmin/code/frontend/one-page.html)
+00:07:18	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/frontend/images/icons/favicon-114x114.png (from swlabs.co/madmin/code/frontend/one-page.html)
+00:08:52	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-file-upload/img/error.png (from swlabs.co/madmin/code/vendors/jquery-file-upload/css/blueimp-gallery.min.css)
+00:08:52	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-file-upload/img/play-pause.png (from swlabs.co/madmin/code/vendors/jquery-file-upload/css/blueimp-gallery.min.css)
+00:08:52	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-file-upload/img/error.svg (from swlabs.co/madmin/code/vendors/jquery-file-upload/css/blueimp-gallery.min.css)
+00:08:52	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-file-upload/img/play-pause.svg (from swlabs.co/madmin/code/vendors/jquery-file-upload/css/blueimp-gallery.min.css)
+00:08:52	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-file-upload/img/video-play.png (from swlabs.co/madmin/code/vendors/jquery-file-upload/css/blueimp-gallery.min.css)
+00:08:52	Error: 	"Not Found" (404) at link swlabs.co/madmin/code/vendors/jquery-file-upload/img/video-play.svg (from swlabs.co/madmin/code/vendors/jquery-file-upload/css/blueimp-gallery.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 minutes 8 seconds : 673 links scanned, 648 files written (33550840 bytes overall) [33728436 bytes received at 22366 bytes/sec], 2.3 requests per connection
+(24 errors, 0 warnings, 0 messages)
