@@ -285,6 +285,7 @@ elseif(!empty($client_check) && empty($admin_check)){
                       'MATRICULE'=> $client_check['MATRICULE_CLIENT'],
                       'PRENOM'=> $client_check['PRENOM_CLIENT'],
                       'PSEUDO' => $client_check['PSEUDO_CLIENT'],
+
                       'STATUT' => $client_check['IS_ACTIF_CLIENT'],
                       'CODE_SYSTM' => $systmCode,
                       'STATIC' => $client_check['CODE_CLIENT'].'client',
